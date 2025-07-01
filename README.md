@@ -10,11 +10,6 @@ A simple Python GUI application that checks the strength of a password based on 
 - Hides password input for better privacy
 - Shows suggestions for improvement
 
-## 📸 Screenshot
-
-![Password Strength Checker GUI](screenshot.png)
-
-*(Optional: Add your actual screenshot named `screenshot.png` in the repo)*
 
 ---
 
