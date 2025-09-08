@@ -59,7 +59,7 @@ Promoting strong security habits
 🎨 Tkinter
 🛡️ Cybersecurity best practices
 
-🎓 Knowledge from #TamizhanSkills
+
 
 🚀 Open to Opportunities
 I'm currently expanding my skills in cybersecurity and Python development, and looking forward to internships or projects in this field. Let’s connect!
